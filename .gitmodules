@@ -1,0 +1,12 @@
+[submodule "medium_api_gateway"]
+	path = medium_api_gateway
+	url = git@github.com:mirasildev/medium_api_gateway.git
+[submodule "medium_post_service"]
+	path = medium_post_service
+	url = git@github.com:mirasildev/medium_post_service.git
+[submodule "medium_notification_service"]
+	path = medium_notification_service
+	url = git@github.com:mirasildev/medium_notification_service.git
+[submodule "medium_user_service"]
+	path = medium_user_service
+	url = git@github.com:mirasildev/medium_user_service.git
